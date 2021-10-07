@@ -1,0 +1,35 @@
+.fa-venus {
+  color: hotpink;
+}
+
+.fa-mars {
+  color: deepskyblue;
+}
+
+.far.fa-heart {
+  font-size: 20px;
+  color: rgba(255, 0, 119, 0.295);
+}
+.far.fa-heart:hover {
+  color: rgb(255, 0, 119);
+}
+
+.fas.fa-heart {
+  font-size: 20px;
+  color: rgb(255, 0, 119);
+}
+.fas.fa-heart:hover {
+  color: rgba(10, 7, 8, 0.295);
+}
+
+.card-img-top:hover {
+  transform: scale(1.05);
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+a :hover {
+  text-decoration: none;
+}
